@@ -2,7 +2,7 @@
 ## What is UPDER-FOSDL?
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPDER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.
 
-## Who created UPER-FOSDL and why he/she created it?
+## Who created UPDER-FOSDL and why he/she created it?
 The UPDER-FOSDL software license is created by TheDoggyBrad Software Lab withe the purpose of making softwares entirely dedicated to the public domain.
 
 ## What type of softwares can use this license?
