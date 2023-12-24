@@ -9,9 +9,9 @@ The UPER-FOSDL software license is created by TheDoggyBrad Software Lab withe th
 All softwares that the creator does not want to claim ownership on and wants to dedicate his/her software to the masses (public domain).
 
 ## In simple words, what does this license do?
-It basically gives anyone the right to do anything with the software implementing this license and only permitting ownership claims to anyone if he/she made substantial modifications to the code that will set apart his/her software to the software that implements this license or when only using components of this software (not the entirety). <br>
+It basically gives anyone the right to do anything with the software implementing this license and only permitting ownership claims to anyone that made substantial modifications to the software's code that will set apart his/her software version to the software that implements this license or when only using components of this software (not the entirety). For example, a programmer only rebranded an UPER-FOSDL licensed web browser then in this case that programmer is not allowed to claim ownership of the software he rebrands unless he adds features or bug fixes that are not available on the UPER-FOSDL licensed web browser, also it could be that if the programmer only uses the browser engine of the UPER-FOSDL web browser to his/her own software then he/she can claim ownership to his/her own software. <br>
 No need to mention or cite the original author of the software nor the need to include a copy of this license to your own modified or unmodified copy.<br>
-Lastly, it works on a principle that everyone is the owner of the software.
+Lastly, it works on a principle that everyone is the owner of the software. It ensures that anyone have the equal rights to the UPER-FOSDL licensed software.
 
 ## License Terms (UPER-FOSDL)
 The Unrestricted Public Domain Equal Rights - Free and Open Source Development License (UPER-FOSDL)<br>
