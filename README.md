@@ -2,6 +2,17 @@
 ## What is UPER-FOSDL?
 The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPER-FOSDL for short is an open source license that will make any software that utilizes the license will be dedicated to the public domain.
 
+## Who created UPER-FOSDL and why he/she created it?
+The UPER-FOSDL software license is created by TheDoggyBrad Software Lab withe the purpose of making softwares entirely dedicated to the public domain.
+
+## What type of softwares can use this license?
+All softwares that the creator does not want to claim ownership on and wants to dedicate his/her software to the masses (public domain).
+
+## In simple words, what does this license do?
+It basically gives anyone the right to do anything with the software implementing this license and only permitting ownership claims to anyone if he/she made substantial modifications to the code that will set apart his/her software to the software that implements this license or when only using components of this software (not the entirety). <br>
+No need to mention or cite the original author of the software nor the need to include a copy of this license to your own modified or unmodified copy.<br>
+Lastly, it works on a principle that everyone is the owner of the software.
+
 ## License Terms (UPER-FOSDL)
 The Unrestricted Public Domain Equal Rights - Free and Open Source Development License (UPER-FOSDL)<br>
 ⊜Public Domain
