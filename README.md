@@ -13,6 +13,20 @@ It basically gives anyone the right to do anything with the software implementin
 No need to mention or cite the original author of the software nor the need to include a copy of this license to your own modified or unmodified copy.<br>
 Lastly, it works on a principle that everyone is the owner of the software. It ensures that anyone have the equal rights to the UPDER-FOSDL licensed software.
 
+## How to pronounce UPDER-FOSDL?
+The standard proununciation provided by TheDoggyBrad Software Lab for the license's acronym is OOP_DE_ER_POS_DIL.<br>
+While, its common pronunciation is UP_DER-FOS_DL.
+
+## What is the similarities and differences of this license to existing open source licenses?
+UPDER-FOSDL is similar to other open source licenses in this ways:<br>
+1.) Author assumes no liability.<br>
+2.) Can be used on whatever purpose you want.<br><br>
+UPDER-FOSSL is different to other open source licenses in this ways:<br>
+1.) There is no need to give attributes to the software's original author/developer.<br>
+2.) There is no need to attach a copy of this license to your own copy or version of the software.<br>
+3.) It strictly dedicates the software to the public domain, thus ownership claims are limited and patent application is prohibited.<br>
+4.) Everyone is considered as the owner of the software.
+
 ## License Terms (UPDER-FOSDL)
 The Unrestricted Public Domain Equal Rights - Free and Open Source Development License (UPDER-FOSDL)<br>
 ⊜Public Domain
