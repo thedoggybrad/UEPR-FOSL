@@ -1,6 +1,6 @@
 # UPER-FOSDL Software License
 ## What is UPER-FOSDL?
-The Unrestricted Public Domain Equal Rights - Free and Open Source Development License or UPER-FOSDL for short is an open source license that will make any software that uses UPER-FOSDL dedicated and owned by the public domain.
+The Unrestricted Public Domain Equal Rights Free and Open Source Development License or UPER-FOSDL for short is an open source license that will make any software that uses UPER-FOSDL dedicated and owned by the public domain.
 
 ## License Terms (UPER-FOSDL)
 The Unrestricted Public Domain Equal Rights - Free and Open Source Development License (UPER-FOSDL)<br>
