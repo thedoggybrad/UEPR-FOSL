@@ -15,7 +15,7 @@ Lastly, it works on a principle that everyone is the owner of the software. It e
 
 ## How to pronounce UPDER-FOSDL?
 The standard proununciation provided by TheDoggyBrad Software Lab for the license's acronym is OOP_DE_ER_POS_DIL.<br>
-While, its common pronunciation is UP_DER-FOS_DL.
+While, its common pronunciation is UP_DER_FOS_DEE_EL.
 
 ## What is the similarities and differences of this license to existing open source licenses?
 UPDER-FOSDL is similar to other open source licenses in this ways:<br>
