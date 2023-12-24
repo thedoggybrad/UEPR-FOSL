@@ -21,7 +21,7 @@ While, its common pronunciation is UP_DER-FOS_DL.
 UPDER-FOSDL is similar to other open source licenses in this ways:<br>
 1.) Author assumes no liability.<br>
 2.) Can be used on whatever purpose you want.<br><br>
-UPDER-FOSSL is different to other open source licenses in this ways:<br>
+UPDER-FOSDL is different to other open source licenses in this ways:<br>
 1.) There is no need to give attributes to the software's original author/developer.<br>
 2.) There is no need to attach a copy of this license to your own copy or version of the software.<br>
 3.) It strictly dedicates the software to the public domain, thus ownership claims are limited and patent application is prohibited.<br>
